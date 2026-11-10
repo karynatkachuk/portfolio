@@ -3,7 +3,7 @@
 Minimal static portfolio site: brand identity & packaging.
 
 - `index.html`: home (work grid, about, contact)
-- `ouro.html`, `aoi.html`, `somera.html`, `safari.html`: project pages
+- `ouro.html`, `velour.html`, `aoi.html`, `somera.html`: project pages
 - `style.css`, `script.js`: shared styles and small scripts
 - `images/`: web-optimised images per project
 
